@@ -22,3 +22,7 @@ Project is created with:
 * gensim
 * pyLDAvis
 
+## Needed Files:
+to obtain `glove.6B.300d.txt.word2vec` follow [these steps](https://www.techunits.com/topics/neural-networks/shallow-neural-network/how-to-convert-a-pre-trained-glove-vector-into-word2vec-format/)
+
+to obtain the pre-trained Doc2Vec files download [English Wikipedia Skip-Gram (1.4GB)](https://unimelbcloud-my.sharepoint.com/:u:/g/personal/jeyhan_lau_unimelb_edu_au/EU2lteQ-nlNLn127cVR2mzYBPwcUE-_ZxDtjjXtKNMC33A?e=4Z2Zoo)
